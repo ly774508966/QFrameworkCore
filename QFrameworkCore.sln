@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{34E34A99-5FAA-45EA-B19E-8994AC6E61F1}") = "QFrameworkCore", "Assembly-CSharp.csproj", "{8D68F42A-CEB6-341E-A76D-1877007D5505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D68F42A-CEB6-341E-A76D-1877007D5505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D68F42A-CEB6-341E-A76D-1877007D5505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D68F42A-CEB6-341E-A76D-1877007D5505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D68F42A-CEB6-341E-A76D-1877007D5505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
